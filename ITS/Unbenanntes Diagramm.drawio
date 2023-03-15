@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-03-15T09:33:51.983Z" agent="5.0 (X11)" etag="Qs6QIOe3lzPgsVU9KsSM" version="21.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-15T09:47:06.360Z" agent="5.0 (X11)" etag="zJZG8F4zqmKlP4RRcOAy" version="21.0.6" type="github">
   <diagram name="Seite-1" id="ofTVBhNgM-X6ronjVRm9">
-    <mxGraphModel dx="2773" dy="2305" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2157" dy="1982" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -163,6 +163,36 @@
         </mxCell>
         <mxCell id="RNd2XHG2iuu7zSji3bTr-45" value="Lagerhaus" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-5" y="220" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RNd2XHG2iuu7zSji3bTr-93" value="" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image;image=img/lib/allied_telesis/wireless/Access_Point_Indoor.svg;" vertex="1" parent="1">
+          <mxGeometry x="50" y="332.7" width="36.6" height="54.6" as="geometry" />
+        </mxCell>
+        <mxCell id="RNd2XHG2iuu7zSji3bTr-94" value="" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image;image=img/lib/allied_telesis/wireless/Access_Point_Indoor.svg;" vertex="1" parent="1">
+          <mxGeometry x="360" y="342.7" width="36.6" height="54.6" as="geometry" />
+        </mxCell>
+        <mxCell id="RNd2XHG2iuu7zSji3bTr-95" value="" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image;image=img/lib/allied_telesis/wireless/Access_Point_Indoor.svg;" vertex="1" parent="1">
+          <mxGeometry x="526.6999999999999" y="332.7" width="36.6" height="54.6" as="geometry" />
+        </mxCell>
+        <mxCell id="RNd2XHG2iuu7zSji3bTr-96" value="" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image;image=img/lib/allied_telesis/wireless/Access_Point_Indoor.svg;" vertex="1" parent="1">
+          <mxGeometry x="720" y="332.7" width="36.6" height="54.6" as="geometry" />
+        </mxCell>
+        <mxCell id="RNd2XHG2iuu7zSji3bTr-97" value="" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image;image=img/lib/allied_telesis/wireless/Access_Point_Indoor.svg;" vertex="1" parent="1">
+          <mxGeometry x="887" y="332.7" width="36.6" height="54.6" as="geometry" />
+        </mxCell>
+        <mxCell id="RNd2XHG2iuu7zSji3bTr-98" value="" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image;image=img/lib/allied_telesis/wireless/Access_Point_Indoor.svg;" vertex="1" parent="1">
+          <mxGeometry x="188.4" y="332.7" width="36.6" height="54.6" as="geometry" />
+        </mxCell>
+        <mxCell id="RNd2XHG2iuu7zSji3bTr-100" value="" style="shape=link;html=1;rounded=0;width=-1.4942528735632177;entryX=0.001;entryY=0.9;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="100" relative="1" as="geometry">
+            <mxPoint x="-161" y="-90" as="sourcePoint" />
+            <mxPoint x="-0.20000000000027285" y="-90" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-41" y="-90" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RNd2XHG2iuu7zSji3bTr-101" value="ISP Leitung" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-156" y="-110" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
