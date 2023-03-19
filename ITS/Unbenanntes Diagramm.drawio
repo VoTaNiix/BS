@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-03-19T11:45:48.633Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="IiNaHPOvacnscsXd5SOW" version="21.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-19T18:50:52.111Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="xJOC-3EYfrUx9q6jx7NU" version="21.0.6" type="github">
   <diagram name="Seite-1" id="ofTVBhNgM-X6ronjVRm9">
-    <mxGraphModel dx="2620" dy="2154" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2420" dy="2045" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -32,7 +32,7 @@
         <mxCell id="RNd2XHG2iuu7zSji3bTr-2" value="100m" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="389" y="240" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="RNd2XHG2iuu7zSji3bTr-8" value="Kabel sind in beide Richtungen verlegt" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="RNd2XHG2iuu7zSji3bTr-8" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry y="-370" width="500" height="300" as="geometry" />
         </mxCell>
         <mxCell id="RNd2XHG2iuu7zSji3bTr-11" value="EG" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
@@ -472,7 +472,7 @@
         <mxCell id="hehNwcLbFmfAbUDs5EEM-92" value="&lt;font style=&quot;font-size: 4px;&quot;&gt;Netzwerk&lt;br&gt;Steckdosen&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=6;" vertex="1" parent="1">
           <mxGeometry x="-10" y="-370" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="hehNwcLbFmfAbUDs5EEM-94" value="Kabel sind in beide Richtungen verlegt" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="hehNwcLbFmfAbUDs5EEM-94" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="550" y="-370" width="500" height="300" as="geometry" />
         </mxCell>
         <mxCell id="hehNwcLbFmfAbUDs5EEM-95" value="1. Etage" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
@@ -813,7 +813,7 @@
         <mxCell id="hehNwcLbFmfAbUDs5EEM-162" value="&lt;font style=&quot;font-size: 4px;&quot;&gt;Netzwerk&lt;br&gt;Steckdosen&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=6;" vertex="1" parent="1">
           <mxGeometry x="540" y="-370" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="hehNwcLbFmfAbUDs5EEM-163" value="Kabel sind in beide Richtungen verlegt" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="hehNwcLbFmfAbUDs5EEM-163" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1120" y="-370" width="500" height="300" as="geometry" />
         </mxCell>
         <mxCell id="hehNwcLbFmfAbUDs5EEM-164" value="2.Etage" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
@@ -1507,6 +1507,99 @@
         </mxCell>
         <mxCell id="hehNwcLbFmfAbUDs5EEM-307" value="WIFI Access Point" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="66.6" y="330" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hehNwcLbFmfAbUDs5EEM-308" value="LWL Kabel" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-92.5" y="20" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hehNwcLbFmfAbUDs5EEM-309" value="LWL Kabel" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-112.5" y="240" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hehNwcLbFmfAbUDs5EEM-310" value="LWL Kabel" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-125" y="-180" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hehNwcLbFmfAbUDs5EEM-311" value="LWL Kabel" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="100" y="360" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hehNwcLbFmfAbUDs5EEM-312" value="LWL Kabel" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="245" y="-430" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hehNwcLbFmfAbUDs5EEM-313" value="LWL Kabel" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="380" y="-70" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hehNwcLbFmfAbUDs5EEM-314" value="LWL Kabel" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="15" y="-235" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hehNwcLbFmfAbUDs5EEM-316" value="LWL Kabel" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="28.3" y="-350" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hehNwcLbFmfAbUDs5EEM-317" value="LWL Kabel" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="19.999999999999996" y="-132.5" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hehNwcLbFmfAbUDs5EEM-319" value="LWL Kabel" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="570" y="-350" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hehNwcLbFmfAbUDs5EEM-320" value="LWL Kabel" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="565" y="-122.5" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hehNwcLbFmfAbUDs5EEM-321" value="LWL Kabel" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="580" y="-230" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hehNwcLbFmfAbUDs5EEM-324" value="LWL Kabel" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="949" y="-200" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hehNwcLbFmfAbUDs5EEM-325" value="LWL Kabel" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="919" y="-310" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hehNwcLbFmfAbUDs5EEM-327" value="LWL Kabel" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1120" y="-310" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hehNwcLbFmfAbUDs5EEM-328" value="LWL Kabel" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1120" y="-190" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hehNwcLbFmfAbUDs5EEM-329" value="LWL Kabel" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1230" y="-122.5" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hehNwcLbFmfAbUDs5EEM-330" value="LWL Kabel" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1186.6" y="-235" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hehNwcLbFmfAbUDs5EEM-331" value="LWL Kabel" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1266.6" y="-350" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hehNwcLbFmfAbUDs5EEM-332" value="LWL Kabel" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1489" y="-320" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hehNwcLbFmfAbUDs5EEM-333" value="LWL Kabel" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1494" y="-180" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hehNwcLbFmfAbUDs5EEM-334" value="LWL Kabel" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="19.999999999999996" y="50" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hehNwcLbFmfAbUDs5EEM-335" value="LWL Kabel" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="316.6" y="50" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hehNwcLbFmfAbUDs5EEM-336" value="LWL Kabel" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="334" y="120" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hehNwcLbFmfAbUDs5EEM-338" value="LWL Kabel" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="909" y="70" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hehNwcLbFmfAbUDs5EEM-339" value="LWL Kabel" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="920" y="105" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hehNwcLbFmfAbUDs5EEM-341" value="LWL Kabel" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1310" y="60" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hehNwcLbFmfAbUDs5EEM-342" value="LWL Kabel" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1315" y="105" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hehNwcLbFmfAbUDs5EEM-343" value="LWL Kabel" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="605" y="220" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hehNwcLbFmfAbUDs5EEM-344" value="LWL Kabel" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="6.600000000000023" y="367.3" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hehNwcLbFmfAbUDs5EEM-345" value="Benötigte Komponenten:&lt;br&gt;-1x Standortverteiler&lt;br&gt;-3x Gebäudeverteiler&lt;br&gt;-5x Etagenverteiler&lt;br&gt;-6x WIFI Access points&lt;br&gt;-116 Anschlussdosen&lt;br&gt;&lt;br&gt;Kabellänge für die verschiedenen Gebäude:&lt;br&gt;&lt;br&gt;Lagerhaus:&lt;br&gt;-LWL 50mikrometer ca. 350m um jeden access point individuell zu versorgen&lt;br&gt;&lt;br&gt;Produktionsstätte:&lt;br&gt;-LWL 50 Mikrometer pro etage ca 160m kabel = 320m&lt;br&gt;&lt;br&gt;Zentrale:&lt;br&gt;-LWL 50mikrometer&lt;br&gt;-Pro etage 210m = 630m Kabel&lt;br&gt;&lt;br&gt;Verknüpfung der Standorte Gebäude veranschlagt nochmal ca 500m LWL Kabel" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-755" y="-420" width="450" height="300" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
